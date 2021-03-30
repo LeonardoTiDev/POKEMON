@@ -1,7 +1,7 @@
 Primeros pasos…
 1.- Primero que nada, debemos verificar la versión e Java instalada en nuestra computadora, la cual se puede verificar en la consola, mediante el comando java -version, tenemos que tener instalada la versión 8 en dado caso que no se tenga instalado https://www.youtube.com/watch?v=nxx1uwxBCs4 .
 
-2.-Debemos descargar o clonar el proyecto desde el repositorio https://github.com/LeonardoTiDev/CRUDS
+2.-Debemos descargar o clonar el proyecto desde el repositorio https://github.com/LeonardoTiDev/POKEMON.git
 
 3.-Una vez descargado procedemos a abrir el proyecto con el IDE de preferencia se recomienda intellij idea ya que es un IDE que reconoce automáticamente el proyecto Maven, ya abierto el proyecto debemos compilarlo y correrlo mediante “Run” de la clase principal .
 
